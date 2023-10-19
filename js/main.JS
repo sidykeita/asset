@@ -58,3 +58,4 @@ function editTodo(todoEl) {
 }
 function deleteTodo(todoEl) {
     todosList.removeChild(todoEl);
+  }
